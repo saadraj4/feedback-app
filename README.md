@@ -28,7 +28,7 @@ HTML
 CSS
 
 Contact
-If you have any questions or suggestions regarding this project, please feel free to reach out to us at saadahmedraja1@gmail.com.
+If you have any questions or suggestions regarding this project, please feel free to reach out to us at srtechsolution01@gmail.com.
 For more platforms you can check the About page, I have provided all the links of social media platforms to reach me.
 To access the about page directly, you can write localhost.com:3000/about in the search bar.
 
